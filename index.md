@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Charles Smith's First CS193 Homework
+- I like the intructors
+- I like the information presented in the class
+- I enjoy being around my friends in class
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
